@@ -1,154 +1,148 @@
-# GİZLİLİK POLİTİKASI
+PRIVACY POLICY
+Last updated: September 20, 2026
 
-**Son Güncelleme:** 20 Eylül 2026
+Application: Infinity Merge : 2048
 
-**Uygulama:** Infinity Merge : 2048
-**Geliştirici:** Mergen Corparation
-**E-posta:** [ikram25.3239@gmail.com](mailto:ikram25.3239@gmail.com)
+Developer: Mergen Corporation
 
-Mergen Corparation olarak Infinity Merge : 2048 ("Uygulama") kullanıcılarının gizliliğine önem veriyoruz.
+Email: ikram25.3239@gmail.com
 
-Bu Gizlilik Politikası, Uygulamanın kullanımı sırasında hangi bilgilerin Google Play Games Services ve Google Mobile Ads (AdMob) gibi üçüncü taraf hizmetler tarafından işlenebileceğini ve bu hizmetlerin kullanım amaçlarını açıklamaktadır.
+At Mergen Corporation, we value the privacy of the users of Infinity Merge : 2048 ("Application").
 
-## 1. Kullanıcı Hesapları
+This Privacy Policy explains what information may be processed by third-party services, such as Google Play Games Services and Google Mobile Ads (AdMob), during the use of the Application and the purposes for using these services.
 
-Infinity Merge : 2048, kullanıcı kimlik doğrulaması ve oyun ilerlemesinin senkronizasyonu için **Google Play Games Services** kullanmaktadır.
+1. User Accounts
+Infinity Merge : 2048 uses Google Play Games Services for user authentication and sync of game progress.
 
-Mergen Corparation tarafından işletilen ayrı bir kullanıcı hesabı sistemi veya kullanıcı veritabanı bulunmamaktadır.
+There is no separate user account system or user database operated by Mergen Corporation.
 
-Uygulama içerisinde kullanıcıların Google hesabı parolaları, kredi kartı bilgileri veya benzeri hassas kimlik doğrulama bilgileri tarafımızca toplanmaz veya saklanmaz.
+Users' Google account passwords, credit card information, or similar sensitive authentication data are not collected or stored by us within the Application.
 
-Google Play Games Services tarafından gerçekleştirilen veri işleme faaliyetleri Google'ın kendi hizmet ve politikalarına tabidir.
+Data processing activities performed by Google Play Games Services are subject to Google's own services and policies.
 
-## 2. Google Play Games Services
+2. Google Play Games Services
+The Application uses Google Play Games Services to authenticate the player with their Google Play Games account and to synchronize game progress across devices.
 
-Uygulama, oyuncunun Google Play Games hesabıyla kimlik doğrulamasını ve oyun ilerlemesinin cihazlar arasında senkronize edilmesini sağlamak amacıyla Google Play Games Services kullanır.
+Game progress may be stored via Google Play Games Services' Saved Games / Cloud Save feature where applicable.
 
-Oyunun ilerlemesi, uygun olduğu durumlarda Google Play Games Services'in **Saved Games / Cloud Save** hizmeti aracılığıyla saklanabilir.
+This allows players to access their supported game progress when logging into the game on another device using the same Google Play Games account.
 
-Bu sayede oyuncu aynı Google Play Games hesabıyla başka bir cihazda oyuna giriş yaptığında desteklenen oyun ilerlemesine erişebilir.
+Data collected and processed by Google Play Games Services is subject to Google's own privacy policy and terms of service.
 
-Google Play Games Services'in topladığı ve işlediği veriler Google'ın kendi gizlilik politikası ve hizmet koşullarına tabidir.
+3. Data Collected by Mergen Corporation
+Mergen Corporation does not maintain a user account or personal user profile database on its own servers.
 
-## 3. Mergen Corparation Tarafından Toplanan Veriler
+The following information of users:
 
-Mergen Corparation'ın kendi sunucusunda kullanıcı hesabı veya kişisel kullanıcı profili veritabanı bulunmamaktadır.
+Google account password
 
-Kullanıcıların:
+Credit card information
 
-* Google hesabı şifresi
-* Kredi kartı bilgileri
-* Banka kartı bilgileri
-* Google hesabı giriş bilgileri
-* Oyun içindeki kullanıcı adı/rumuzu
+Debit card information
 
-Mergen Corparation tarafından kendi veritabanında saklanmaz.
+Google account login credentials
 
-Uygulamanın kullandığı Google ve diğer üçüncü taraf hizmetler, kendi hizmetlerini sağlamak amacıyla belirli teknik veya kullanım verilerini işleyebilir.
+In-game username/nickname
 
-## 4. Reklamlar
+is not stored by Mergen Corporation in its own database.
 
-Infinity Merge : 2048 içerisinde **Google Mobile Ads (AdMob)** kullanılmaktadır.
+Google and other third-party services used by the Application may process certain technical or usage data to provide their respective services.
 
-AdMob, uygulama içerisinde reklamların gösterilmesi, reklamların ölçümlenmesi, dolandırıcılığın önlenmesi ve reklam hizmetlerinin sağlanması amacıyla belirli bilgileri işleyebilir.
+4. Advertisements
+Google Mobile Ads (AdMob) is used within Infinity Merge : 2048.
 
-Bu bilgiler kullanılan reklam yapılandırmasına ve kullanıcının bulunduğu bölgeye bağlı olarak değişebilir.
+AdMob may process certain information to serve ads within the application, measure ad performance, prevent fraud, and provide ad services.
 
-Bunlar arasında cihaz veya reklam kimliği, IP adresi, uygulama etkileşimleri, tanılama bilgileri ve reklamla ilgili kullanım bilgileri bulunabilir.
+This information may vary depending on the ad configuration used and the user's region.
 
-Reklamların kişiselleştirilmesi ve kullanıcı seçenekleri, Google'ın ilgili hizmetleri ve geçerli mevzuat kapsamında yönetilebilir.
+It may include device or advertising identifiers, IP addresses, app interactions, diagnostic information, and ad-related usage data.
 
-## 5. Uygulama İçi Satın Almalar
+Personalization of ads and user choices are managed under Google's relevant services and applicable legislation.
 
-Infinity Merge : 2048 içerisinde dijital ürünler ve oyun içi içerikler satın alınabilir.
+5. In-App Purchases
+Digital goods and in-game content can be purchased within Infinity Merge : 2048.
 
-Ödeme işlemleri **Google Play Faturalandırma Sistemi** üzerinden gerçekleştirilir.
+Payment transactions are processed through the Google Play Billing System.
 
-Mergen Corparation kullanıcıların kredi kartı veya banka kartı bilgilerinin tamamını toplamaz veya kendi sistemlerinde saklamaz.
+Mergen Corporation does not collect or store full credit or debit card details on its systems.
 
-Satın alma işlemlerine ilişkin ödeme ve işlem verileri Google Play tarafından kendi hizmet koşulları ve gizlilik politikaları kapsamında işlenebilir.
+Payment and transaction data related to purchases are processed by Google Play under its own terms of service and privacy policies.
 
-## 6. Bilgilerin Kullanım Amaçları
+6. Purposes of Data Usage
+Information processed by the Application and third-party services may be used for the following purposes:
 
-Uygulama ve kullanılan üçüncü taraf hizmetler tarafından işlenen bilgiler aşağıdaki amaçlarla kullanılabilir:
+Providing player authentication via Google Play Games
 
-* Google Play Games üzerinden oyuncu kimlik doğrulamasının sağlanması
-* Oyun ilerlemesinin kaydedilmesi ve senkronize edilmesi
-* Oyun hizmetlerinin sağlanması
-* Reklamların gösterilmesi ve ölçümlenmesi
-* Uygulama içi satın almaların gerçekleştirilmesi ve doğrulanması
-* Hata ve performans sorunlarının tespit edilmesi
-* Güvenliğin sağlanması ve kötüye kullanımın önlenmesi
-* Uygulamanın geliştirilmesi
-* Yasal yükümlülüklerin yerine getirilmesi
+Saving and synchronizing game progress
 
-## 7. Üçüncü Taraf Hizmetler
+Delivering game services
 
-Infinity Merge : 2048 aşağıdaki üçüncü taraf Google hizmetlerini kullanmaktadır:
+Serving and measuring advertisements
 
-**Google Play Games Services**
-Kimlik doğrulama ve Saved Games / Cloud Save özellikleri için kullanılır.
+Executing and verifying in-app purchases
 
-**Google Play**
-Uygulamanın dağıtılması ve uygulama içi satın alma işlemleri için kullanılır.
+Detecting errors and performance issues
 
-**Google Mobile Ads (AdMob)**
-Uygulama içerisinde reklamların gösterilmesi ve reklam hizmetlerinin sağlanması için kullanılır.
+Ensuring security and preventing abuse
 
-Bu hizmetlerin kendi gizlilik politikaları ve kullanım koşulları bulunmaktadır.
+Improving the Application
 
-## 8. Veri Güvenliği
+Fulfilling legal obligations
 
-Mergen Corparation tarafından işletilen ayrı bir kullanıcı kişisel veri veritabanı bulunmadığından kullanıcı hesap bilgilerinin kendi sunucularımızda saklanması söz konusu değildir.
+7. Third-Party Services
+Infinity Merge : 2048 uses the following third-party Google services:
 
-Bununla birlikte Google ve diğer üçüncü taraf hizmetler tarafından işlenen verilerin güvenliği ilgili hizmet sağlayıcıların güvenlik uygulamalarına tabidir.
+Google Play Games Services: Used for authentication and Saved Games / Cloud Save features.
 
-## 9. Verilerin Saklanması
+Google Play: Used for app distribution and handling in-app purchases.
 
-Google Play Games Services üzerindeki oyun kayıtları ve diğer ilgili veriler Google'ın ilgili hizmetleri kapsamında saklanabilir.
+Google Mobile Ads (AdMob): Used for displaying ads and delivering ad services within the app.
 
-Mergen Corparation tarafından işletilen bir kullanıcı hesabı veritabanında kişisel kullanıcı profili saklanmamaktadır.
+These services have their own privacy policies and terms of use.
 
-Üçüncü taraf hizmetlerin veri saklama süreleri kendi politikalarına göre belirlenir.
+8. Data Security
+Since no separate personal user data database is operated by Mergen Corporation, storing user account information on our servers is not applicable.
 
-## 10. Hesap ve Oyun Verilerinin Silinmesi
+However, the security of data processed by Google and other third-party services is subject to the security practices of the respective service providers.
 
-Infinity Merge : 2048 içerisindeki oyun ilerlemesi Google Play Games Services Saved Games / Cloud Save hizmeti üzerinden saklanabilir.
+9. Data Retention
+Game saves and other related data on Google Play Games Services may be retained under Google's relevant services.
 
-Mergen Corparation kendi kullanıcı veritabanında Google hesabı veya kullanıcı profili saklamadığından, kendi tarafımızdan silinecek bir Google hesabı bulunmamaktadır.
+Personal user profiles are not retained in any user account database operated by Mergen Corporation.
 
-Google Play Games hesabı ve Google tarafından sağlanan ilgili hizmetlerdeki verilerin yönetimi Google'ın sunduğu hesap ve hizmet yönetim araçları üzerinden gerçekleştirilir.
+Retention periods for third-party services are determined according to their own policies.
 
-Kullanıcı, uygulama veya veri silme konusunda destek almak için:
+10. Account and Game Data Deletion
+Game progress in Infinity Merge : 2048 may be stored through the Google Play Games Services Saved Games / Cloud Save feature.
 
-**[ikram25.3239@gmail.com](mailto:ikram25.3239@gmail.com)**
+Since Mergen Corporation does not store Google accounts or user profiles in its own database, there are no Google accounts to be deleted on our end.
 
-adresinden Mergen Corparation ile iletişime geçebilir.
+Management of data on Google Play Games accounts and related Google services is conducted through the account and service management tools provided by Google.
 
-## 11. Çocukların Gizliliği
+To request support regarding the Application or data deletion, users can contact Mergen Corporation at:
 
-Infinity Merge : 2048 genel kullanıcı kitlesine yönelik bir bulmaca oyunudur ve özellikle çocuklara yönelik olarak tasarlanmamıştır.
+ikram25.3239@gmail.com
 
-Uygulamanın gelecekte çocuklara yönelik olarak sunulması veya hedef kitlesinin değiştirilmesi halinde ilgili yasal ve platform gereklilikleri ayrıca değerlendirilecektir.
+11. Children's Privacy
+Infinity Merge : 2048 is a puzzle game intended for a general audience and is not specifically designed for children.
 
-## 12. Kullanıcı Hakları
+If the Application is offered to children or its target audience changes in the future, relevant legal and platform requirements will be separately evaluated.
 
-Yürürlükteki mevzuat kapsamında kullanıcılar kişisel verileriyle ilgili çeşitli haklara sahip olabilir.
+12. User Rights
+Under applicable legislation, users may have various rights regarding their personal data.
 
-Kişisel verilerinizle ilgili bir talebiniz olması durumunda:
+If you have any requests concerning your personal data, you can contact Mergen Corporation at:
 
-**[ikram25.3239@gmail.com](mailto:ikram25.3239@gmail.com)**
+ikram25.3239@gmail.com
 
-adresinden Mergen Corparation ile iletişime geçebilirsiniz.
+13. Changes to This Privacy Policy
+This Privacy Policy may be updated when necessary.
 
-## 13. Gizlilik Politikası Değişiklikleri
+The updated version becomes effective as of the date it is published within the application or on the relevant website.
 
-Bu Gizlilik Politikası gerektiğinde güncellenebilir.
+14. Contact
+Mergen Corporation
 
-Güncel metin uygulama içerisinde veya ilgili internet sayfasında yayımlandığı tarihten itibaren geçerli olur.
+Infinity Merge : 2048
 
-## 14. İletişim
-
-**Mergen Corparation**
-**Infinity Merge : 2048**
-**E-posta:** [ikram25.3239@gmail.com](mailto:ikram25.3239@gmail.com)
+Email: ikram25.3239@gmail.com

@@ -1,95 +1,91 @@
-# KULLANIM KOŞULLARI
+TERMS & CONDITIONS
+Last updated: September 20, 2026
 
-**Son Güncelleme:** 20 Eylül 2026
+Application: Infinity Merge : 2048
 
-**Uygulama:** Infinity Merge : 2048
-**Geliştirici:** Mergen Corparation
-**E-posta:** [ikram25.3239@gmail.com](mailto:ikram25.3239@gmail.com)
+Developer: Mergen Corporation
 
-Infinity Merge : 2048'i ("Uygulama") kullanarak aşağıdaki Kullanım Koşulları'nı kabul etmiş olursunuz.
+Email: ikram25.3239@gmail.com
 
-## 1. Uygulamanın Kullanımı
+By downloading, accessing, or using Infinity Merge : 2048 ("Application"), you agree to be bound by these Terms and Conditions.
 
-Infinity Merge : 2048, mobil cihazlarda oynanan bir bulmaca oyunudur.
+1. Use of the Application
+Infinity Merge : 2048 is a puzzle game designed for mobile devices.
 
-Uygulama yalnızca yasal amaçlarla ve bu Kullanım Koşulları'na uygun şekilde kullanılmalıdır.
+The Application must be used solely for lawful purposes and in accordance with these Terms and Conditions.
 
-## 2. Google Play Games
+2. Google Play Games
+Certain features of the Application are provided through Google Play Games Services.
 
-Uygulamanın bazı özellikleri Google Play Games Services kullanılarak sağlanmaktadır.
+User authentication and cloud-based storage of game progress performed using a Google Play Games account are subject to Google's applicable terms and policies.
 
-Google Play Games hesabıyla gerçekleştirilen kimlik doğrulama ve oyun ilerlemesinin bulut üzerinden saklanması Google'ın ilgili hizmetlerine tabidir.
+3. Game Progress
+Game progress may be stored using Google Play Games Services Saved Games / Cloud Save.
 
-## 3. Oyun İlerlemesi
+Access to game progress may be affected or disrupted due to device changes, switching Google Play Games accounts, service outages, or issues occurring within third-party services.
 
-Oyun ilerlemesi Google Play Games Services Saved Games / Cloud Save aracılığıyla saklanabilir.
+4. Cheating and Misuse
+The following actions and behaviors are strictly prohibited:
 
-Cihaz değişikliği, Google Play Games hesabının değiştirilmesi, hizmet kesintisi veya üçüncü taraf hizmetlerde meydana gelebilecek sorunlar nedeniyle oyun ilerlemesine erişimde sorun yaşanabilir.
+Using cheating software or exploits
 
-## 4. Hile ve Kötüye Kullanım
+Attempting to modify the game's mechanics or operation
 
-Aşağıdaki davranışlar yasaktır:
+Altering game data through unauthorized third-party software
 
-* Hile yazılımları kullanmak
-* Oyunun çalışma sistemini değiştirmeye çalışmak
-* Yetkisiz yazılımlarla oyun verilerini değiştirmek
-* Uygulamanın güvenliğini aşmaya çalışmak
-* Hataları veya açıkları kötüye kullanmak
-* Bot veya yetkisiz otomasyon kullanmak
-* Uygulamanın normal çalışmasını engellemek
+Attempting to bypass or compromise the Application's security measures
 
-## 5. Sanal Ürünler
+Exploiting bugs, glitches, or vulnerabilities
 
-Infinity Merge : 2048 içerisinde sanal para, bonuslar, oyun içi öğeler veya diğer dijital içerikler sunulabilir.
+Utilizing bots or unauthorized automation tools
 
-Bu ürünler yalnızca oyun içerisinde kullanılabilir.
+Interfering with or disrupting the normal operation of the Application
 
-Sanal ürünler gerçek para olarak çekilemez ve gerçek para karşılığında başka kullanıcılara devredilemez.
+5. Virtual Items
+Infinity Merge : 2048 may offer virtual currency, bonuses, in-game items, or other digital content.
 
-## 6. Uygulama İçi Satın Almalar
+These items are intended solely for use within the game.
 
-Uygulama içerisinde sunulan dijital ürünler Google Play Faturalandırma Sistemi üzerinden satın alınır.
+Virtual items have no monetary value, cannot be redeemed or withdrawn for real currency, and cannot be transferred to other users for real money.
 
-Satın alma işleminden önce ürünün fiyatı kullanıcıya gösterilir.
+6. In-App Purchases
+Digital items offered within the Application are purchased via the Google Play Billing System.
 
-Ödeme işlemleri Google Play'in ödeme sistemi üzerinden gerçekleştirilir.
+Item prices are displayed to the user prior to completing the transaction.
 
-## 7. Reklamlar
+All payment processing is handled securely through Google Play's payment infrastructure.
 
-Uygulama ücretsiz olarak kullanılabilir ve içerisinde Google Mobile Ads (AdMob) tarafından sağlanan reklamlar gösterilebilir.
+7. Advertisements
+The Application is available free of charge and may display advertisements served by Google Mobile Ads (AdMob).
 
-Bazı reklamlar kullanıcıya oyun içi ödül sağlayan ödüllü reklamlar olabilir.
+Certain ads may offer in-game rewards upon viewing (rewarded ads).
 
-Reklamların içeriği ve gösterimi üçüncü taraf reklam hizmetlerinin sistemlerine bağlıdır.
+The content and delivery of advertisements depend on third-party ad network systems.
 
-## 8. Hesabın Kötüye Kullanılması
+8. Misuse and Account Restrictions
+In cases of cheating, abuse, security breaches, or material violations of these terms, a user's access to certain features of the Application may be restricted or suspended.
 
-Hile, kötüye kullanım, güvenlik ihlali veya bu koşulların ciddi şekilde ihlal edilmesi halinde kullanıcının uygulamanın belirli özelliklerine erişimi kısıtlanabilir.
+9. Intellectual Property
+Unless otherwise stated, all software, design elements, graphics, logos, text, sounds, and other content within Infinity Merge : 2048 belong to Mergen Corporation or its respective right holders.
 
-## 9. Fikri Mülkiyet
+No content may be copied, reproduced, distributed, or used for commercial purposes without explicit prior authorization.
 
-Infinity Merge : 2048 içerisinde bulunan yazılım, tasarım, grafikler, logolar, metinler, sesler ve diğer içerikler, aksi belirtilmedikçe Mergen Corparation'a veya ilgili hak sahiplerine aittir.
+10. Modifications to the Service
+Mergen Corporation reserves the right to modify the Application to enhance performance, improve security, or address technical issues.
 
-İzinsiz olarak kopyalanamaz, çoğaltılamaz, dağıtılamaz veya ticari amaçlarla kullanılamaz.
+Certain features may be updated, altered, or removed temporarily or permanently.
 
-## 10. Hizmette Değişiklik
+11. Service Interruptions
+Certain features of the Application may become temporarily unavailable due to outages or technical issues originating from Google Play Games, Google Play, AdMob, internet connectivity, or other third-party service providers.
 
-Mergen Corparation, uygulamanın geliştirilmesi, güvenliğinin sağlanması veya teknik sorunların giderilmesi amacıyla uygulamada değişiklik yapabilir.
+12. Updates to These Terms
+These Terms and Conditions may be updated as necessary.
 
-Bazı özellikler geçici veya kalıcı olarak değiştirilebilir ya da kaldırılabilir.
+The revised terms become effective as soon as they are published within the Application or on the official website page.
 
-## 11. Hizmet Kesintileri
+13. Contact Information
+Mergen Corporation
 
-Google Play Games, Google Play, AdMob, internet bağlantısı veya diğer üçüncü taraf hizmetlerde meydana gelen kesintiler nedeniyle uygulamanın bazı özellikleri geçici olarak kullanılamayabilir.
+Infinity Merge : 2048
 
-## 12. Koşulların Güncellenmesi
-
-Bu Kullanım Koşulları gerektiğinde güncellenebilir.
-
-Güncel koşullar uygulama içerisinde veya ilgili internet sayfasında yayımlandığında geçerli olur.
-
-## 13. İletişim
-
-**Mergen Corparation**
-**Infinity Merge : 2048**
-**E-posta:** [ikram25.3239@gmail.com](mailto:ikram25.3239@gmail.com)
+Email: ikram25.3239@gmail.com
